@@ -1,0 +1,4 @@
+/Users/jarlygri/Documents/cal/C7_SmartCalc_v1.0-5/src/build/CMakeFiles/SmartCalc_v1_0.dir
+/Users/jarlygri/Documents/cal/C7_SmartCalc_v1.0-5/src/build/CMakeFiles/edit_cache.dir
+/Users/jarlygri/Documents/cal/C7_SmartCalc_v1.0-5/src/build/CMakeFiles/rebuild_cache.dir
+/Users/jarlygri/Documents/cal/C7_SmartCalc_v1.0-5/src/build/CMakeFiles/SmartCalc_v1_0_autogen.dir
